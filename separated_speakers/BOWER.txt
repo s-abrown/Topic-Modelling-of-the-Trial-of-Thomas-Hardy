@@ -1,0 +1,620 @@
+BOWER 534 What are you 
+BOWER 536 Did you at any time go to the House of a Mr. Daniel Adams 
+BOWER 538 When did you go to Mr. Adams's House
+BOWER 540 What did you do with them
+BOWER 542 Look at this letter, signed. T.. Hardy, and tell me whether it is one of the papers you seized in Mr. Adams's house 
+BOWER 544 De you know the prisoner at the bar, Thomas Hardy 
+BOWER 546 Have you ever seen him him write. ‘ Do you know his hand-wr:ting
+BOWER 548 Look at that letter, and tell me whether you believe it to be the prisoner’s handwriting 
+BOWER 550 Bo youor not believe it to be his hand-writingi—l cannot take my oath to it. 
+BOWER 551 am not asking .you to say certainly, but according to the best of your belief is that his hand-writing
+BOWER 553 You are not asked to swear that it is his hand-writing, but whether you believe it to be his hand-writing 
+BOWER 555 o the secretary of the Society for Constitutional Information. 
+BOWER 556 “ March 27, 1794, 
+BOWER 557 “ Citizen; I am directed by the London Corresponding Society to transmit the following resolutions to the Society for Constitu‘tional Information, and to request the senti‘ments of that society respecting the important measures which the present juncture of affairs seems to require. The London Corresponding Society conceives that the moment is arrived when a full and explicit declaration is necessary from all the friends of freedom, ‘whether the late illegal and unheard-of prosecutions and sentences shall determine us to abandon our cause, or shall excite us to pursue a radical reform with an ardour proportioned to the magnitude of the object, and with a zeal as distinguished on our parts as the treachery of others in the same glorious cause is notorious; the Society for Constitutional Information is therefore required to determine whether or no they will be ready, when called upon,.to act in conjunction with this and other societies, to obtain a fair representation of the people ; whether they concur with us in seeing the necessity of a speedy convention, for the purpose of obtaining, in a constitutional and legal method, a redress of those grievances under which we at present labour, and which can only be effectually removed by a full and fair representation of the people of Great Britain, The London Corresponding Society cannot but remind their friends, that the present crisis demands all the prudence, unanimity, and vigour, that ever was or can be exerted by men and Brtons; nor do they doubt but that manly firmness and consistency will finally, and, they believe, shortly terminate in the full aecomplishment of all their wishes. I am, felow citizen (in my humble measure) a friend to the rights of man, , Harpy, Secretary. 
+BOWER 558 “ Resolved unanimously,. 1. That, dear as justice and liberty are to Britons, yet the va lue of them is comparatively small without a dependence on their permanency, and there can be no security for the continuance of any right but in equal laws. 
+BOWER 559 “ 2, That equat laws can never be expected but by a full and fair representation of the people ; to obtain which, in the way pointed out by the constitution, has been and is the sole object of this society ;. for this we are ready to hazard every thing, and never but with our lives will we relinquish an object which involves the happiness, or even the political existence, of ourselves and posterity. 
+BOWER 560 “3, That it is the decided opinion of this society, that to secure ourselves from future feed: and scandalous prosecutions; w prevent a repetition of wicked and unjust se tences, and to recall those wise and wholesome laws that have been wrested from us, and of which scarcely a vestige remains, there ought to be immediately a convention of the people, by delegates deputed for that purpose from the different societies of the friends of freedom, assembled in the various parts of this nation, and we pledge ourselves to the public to pursue every legal method speedily accomplish so desirable a purpose. 
+BOWER 561 “Postscript. I have to inform you, that 4 general meeting of the society will be holdea on Monday the 14th of April, the place to be ; announced by public advertisement. 
+BOWER 562  You are, I believe, one of his majesty’s Mmessengers
+BOWER 564 Did you at any time, and when, go to the House of Mr. Hardy
+BOWER 566 Did you seize any papers or books there
+BOWER 568 Is this one of the papers you seized
+BOWER 570 Is this the prisoner's hand-writing
+BOWER 572 Do you believe it his hand-writing 
+BOWER 574 e eon ae 
+BOWER 575 “ Friday, April 4, 1794. 
+BOWER 576 '. “ A conference with the Society for Con‘stitutional Information,— present, Daniel Adams, secretary, Mr. Ky, Mr. Holcroft, Mr. Joyce, Mr. Wardle, and Mr. Sharp. From the Corresponding Society,—Mr. Moore in the chair, Mr. Baxter, Mr. Lovett, Mr. Hodgson, Mr. Thelwall, and Mr. Hardy, secretary
+BOWER 578 there any thing struck out? 
+BOWER 585 My lord, we read these two papers for the sake of bringing these parties together; now I shall produce the papers found in the prisoner’s custody. 
+BOWER 586 Mr. Jokn Gurnell
+BOWER 641 We will now read the Address. 
+BOWER 728 Is that the prisoner’s hand-writing
+BOWER 730 Do you believe it to be his hand-writing
+BOWER 754 I will prove part of this letter to be in Mr. Horne Tooke’s hand-writing. 
+BOWER 755 Are uainted with Mr. Horne Tooke’s hand-wating Yes, 
+BOWER 756 Look at that letter, and see whether there is any part of it Mr. Tooke’s hand-writing — TI do not think that of it is Mr. Tooke’s hand-writing, but there is an interlineation which-T believe to be his hand-writing. 
+BOWER 757 Have .you seen him write 
+BOWER 759 Which are the parts 
+BOWER 761 Do you believe it to be his 
+BOWER 989 It is impossible. t 
+BOWER 1124 These are the proceedings of the convention. 
+BOWER 1132 There are subsequent approbations of them without end; we shall read evidence enough of that by and by. 
+BOWER 1487 I should be ashamed to trouble the court with a word Ls this objection, for the sake of the piece of evidence that is now in my hand, because it does not appear, of itself, to be of so much importance as to demand so much attention ; but it will be of very considerable consequence in the course of these trials, if a piece of evidence, offered to the court under the circumstances in which we offer this letter, should not be considered, as good evidence. 
+BOWER 1488 I will attend to what your lordship su gested, that the duty of counsel is to open the tendency of the evidence, at the time it is offered and objected to; and, with great deference to my friends who have gone before me, I do not think that they have opened the tendency of that part of this letter, which appears to me to be material, and to be an indisputable ground why it should be received in evidence. 
+BOWER 1489 I must beg your lordships to advert to the state of the present cause. We have already proved, as against the pooner, a paper, signed with the name of John Martin, as chairman, at a meeting of the society of which he himself is secretary. This paper was brought home to him by evidence, and by etnch, he, therefore, admits, that Martin was the chairman of that meeting; the date of the letter, which I hold in my hand, is the 22d of January, 1794; it is subsequent to the period of that convention in Scotland, of which we have heard so much, and it is relative to that convention. ‘The letter which I want to read now is from Mr. Martin, who we have proved to be so connected with Mr. Hardy, to their delegate in Scotland, who was at that time, in consequence of the interposition of the civil magistrate, in confinement, as it appears, to encourage him to proceed in these efforts, which he was sent there to attempt, by telling him that subscriptions will now be raised, which will be an assistance to him, and by informing hiim that it may be thought advisable to have another meeting here, in a commodious place, for the purpose of carryin into effect the views of the convention, which the magistracy of that country interrupted. That is the tendency of the greatest part of the letter, which we now offer to the Court; and if we have brought ourselves into the situation of showing, as I trust we have, that Mr. Hardy has admitted Mr. Martin to be chairman of the Corresponding Society ; if we have proved that the object of that society was to accomplish certain purposes; when I say we have proved, I take it we have given evidence to prove it; if we have proved, that the objects of that society were, to carry certain purposes into effect, by means of the convention ; if we show incitement from a person proved to be connected with the prisoner in the way Martin has been proved, to proceed in those steps which are the objects of that convention, and to persevere in those measures, which were the measures used to bring about the ultimate purposes of that convention, we may prove a direct act, done in furtherance of that conspiracy, by showing a direct incitement, by a Jetter in the very words of the overt act charged in this indictment, to persevere, and go on with that conduct, which was to lead to the ultimate end that the society had in view. 
+BOWER 1491 The argument would, perhaps, be stronger, if it had come to his hands ; but, with great submission to your lordship, it is evidence of the intent of this Mr. Martin to encourage the party, who appears to have been intended to have been addressed by this letter, in the general purposes for which this society has been established, and which they were going to carry into effect; but it is not so strong, to be sure, as if I could prove that it arrived at Margarot’s possession, because, I take it, that would put it out of all doubt; but any letter, written from a conspirator in the connexion we have proved Mr. Martin to be, having proved him to be chairman of that very meeting, the object of this letter being to persevere in these measures, and to forward those purposes, which we have proved the society had in view, and that Martin, the man who writes this letter, particularly had in view, by the transactions at the Globe tavern, is not, I conceive, a recital of any thing that has passed, but a direct incitement to go on with that act, which we are about to prove, as being the act intended by this society to be carried into effect, by the joint or individual efforts of the members of the society. It does appear to me to be material, that we should now know whether or no, when we have established an intimate connexion between Martin and the prisoner, that an act done by Martin, in direct furtherance and prosecution of the main design, should not be admitted as evidence against the prisoner, though we have given evidence, that they were connected in the individual and particular act which is the subject of the evidence that has been offered. I submit to your lordships, that this is evidence which, in this stage of the cause, ought to be received; and it is not for the materiality of this piece of evidence, but for the sake of the principle that we wish to have established. 
+BOWER 1634 I think you were some time secretary to the Constitutional Society 
+BOWER 1636 Were these the books in which their proceedings for some time were entered 
+BOWER 1638 Ata meeting held at the Crown and Anchor tavern, Strand, Friday, July 13th, 1799. 
+BOWER 1639 “ PREsENT, “ Mr. John Martin in the chair. 
+BOWER 1640 ‘4 Mr. Tooke, Mr. Frost, Mr. Bonney, Mr. Paine, Dr. Maxwell, Mr. Hull, Mr. Sharpe, Mr. Pearson, Dr. Kentish, Mr. Sturch, Mr. Constable, Mr.G. Williams, Mr. Rimington, captain Harwood, Mr. Bush, Mr. Bush, junior, Mr. Choppin, Mr. Bakewell, Mr. Hind, lord Sempill, Mr. Jennings, Mr. Balmoanno, Mr. Fitzgerald, Mr. Adams, Mr. J. Williams, Mr. Chatfield. 
+BOWER 1641 “ The following six gentlemen recommended by the London Serres peddling Society, to be associated members of this society, were unanimously elected. 
+BOWER 1642 “ Mr. Hardy, Mr. Margarot, Mr. Richter, Mr. Littlejohn, Mr. Grant, and Mr. Gow. 
+BOWER 1643 Ata meeting of the society for Constitutional Information, held at the Crown and Anchor-tavern, Strand, Friday, July 20th, 1792. 
+BOWER 1644 & PREsENt, 
+BOWER 1645 “ Mr. Frost in the chair, 
+BOWER 1646 “Mr. J.H. Tooke, lord Sempill, Dr. Edwards, Mr. Bonney, Mr. W. Sharpe, Mr. J. Williams, Mr. G. Williams, Mr. Choppin, Mr. Bailey, col. Keating, Mr. Bush, Mr. Sturch, Mr. Balmanno, Mr. Aspinal, Mr. Bush, jun. Mr. Gow, Mr. Hardy, Mr. Grant, Mr. Moore, Mr. John Martin, capt. Perry, rev, Dr. Towers. 
+BOWER 1647 “ The committee appointed to take into consideration Mr. Paine’s letter, reported that they think it will not be advisable for the society to undertake the trust. , 
+BOWER 1648 “ Resolved, That the said committee be now dissolved. 
+BOWER 1649 “ Resolved, That a committee be appointed to consider of the manner in which the society shall communicate to Mr. Paine their determination concerning his offer of 1,0001., in trust, to be applied as the society shall think proper. ; : 
+BOWER 1650 “Resolved, That the said committee consist of Mr. Bush, rev. Dr. Towers, ee Fens Mr. J. H. Tooke, lord Sempill, Mr. M. Bush, Mr. W. Sharpe, Mr. Choppin, and Mr. Balmanno; and that the said committee meet at six o'clock, at the Crown and Anchor tavern. 
+BOWER 1651 These books were among the papers that were seized at your house by the messenger 
+BOWER 1653 Were these books open to the inspection of the society when the society were sitting
+BOWER 1655 Were they ever read
+BOWER 1657 “ Ata meeting of the society, held at the Crown ‘and Anchor tavern, Strand, Friday, July 27, 1792, 
+BOWER 1658 PRESENT 
+BOWER 1659 Jj Mr. Choppin in the chair, 
+BOWER 1660 “ Mr. Hull, Mr. Bush, Mr. M. Bush, Mr. Sturch, Mr. Williams, Mr. G. Williams, capt. Harwood, Mr. Harvey, Mr. Gow, capt. Perry, Mr. Sinclair, Mr. Geddes, Mr. Asinal, Mr. Gerard, Mr. Littlejohn, Mr. Rutt, Mr. Sutton, Mr. Moore, Mr. John 
+BOWER 1661 Martin, lord Sempill. 
+BOWER 1662 he committee appointed to take Mr. Paine’s Jetter of the 4th instant into consideration, and to cansider of the manner in which the society shall communicate to Mt. Paine their determination concerning his offer of 1,000. in trust, to be applied as this society sball think proper, reported that they had met on Monday last, when they came to the following resolutions : : 
+BOWER 1663 “ That it is the opinion of this committce, the offer of Mr. Paine be respectfully declined. 
+BOWER 1664 “ Resolved, That the following letter be recommended by this committee, to be trans‘mitted by the society to Mr. Paine : 
+BOWER 1665 “ Sir; I am directed by the Society for Constitutional Information, to return you their sincere thanks for the honour you have done them, in requesting them to become trustees of the sum of one thousand pounds, which has been produced by the profits of the sale of the Rights of Man, and leaving it to them to apply it to such purposes as they should judge proper. They have a just sense of the confidence that you have placed in them, and of the generosity and disinterestedness of your offer, but they cannot think that it is an offer they should accept. The eminent services which have been rendered to the public by your invaluable writings, have never yet met with an adequate reward, and they think that it would be an extreme injustice to deprive you of any benefits which might be derived from their sale; for itis but reasonable, that those who are possessed of literary talents, and who employ them toPromote the happiness of the community to which they belong, and to mankind at large, should receive those advantages which may be obtained by their writings, and which may be enjoyed with integrity and honour. But though the society decline the offer which you have. been pleased to make them, they cannot do it, without,.at the same time, con. gratulating you upon the consciousness which you must possess of having contributed, by your writings, to the illumination of so many millions of human beings, in this country, America, an in other nations, on subjects of the highest importance to the universal freedom and happiness of mankind. I am, with great esteem, sir, your most obedient servant, e be D. A. secretary. o Mr. Thomas Paine. 
+BOWER 1666 “ Resolved, That the said letter be signed by the secretary, and sent to Mr. Paine. 
+BOWER 1667 “ Resolved, That the secretary wait on Mr. Paine, to be informed by him, whether it be agrecable to him, that the two resolutions of the committee appointed to take Mr. Paine’s letter of the 4th of July into consideration, weer with the answer of the society, be published in the papers, and that if Mr. Paine does not disapprove its publication, that it be forthwith published in different papers. 
+BOWER 1668 “ Adjourned to the last Friday in September. , 
+BOWER 1669 Mr. Bower—I shall now call the bookseller who published Mr. Paine’s book. 
+BOWER 1670 Do you know Mr. Thomas Paine 
+BOWER 1672 Pe you know: his hand-writing 
+BOWER 1674 Look at that letter; do you believe that to be his hand-writing
+BOWER 1676 Have you corresponded with him 
+BOWER 1678 And answered them 
+BOWER 1680 How do you know the notes came from him? has he afterwards told you that they were his notes
+BOWER 1682 Have you ever talked with him about those notes, or of things that were sent in consequence 
+BOWER 1684 Did you publish, at any time, for Mr. Paine, a work, intituled, “ Rights of Man
+BOWER 1686 Look at this, and tell us whether that is the book that you published 
+BOWER 1688 Do you believe it to be one of the books that you published 
+BOWER 1692 Look at it, and see whether it is one of the books pa published 
+BOWER 1697 I thought you had been the printer 
+BOWER 1700 I have the record of a conviction, in which Paine was convicted: this witness was examined upon his oath there, and I can prove what he swore then, which I submit will be evidence. 
+BOWER 1705 Do you know how far Mr. Chapman printed? —I believe as far as Jetter H. 
+BOWER 1706 I will now read the proceedings of the Constitutional Society, at their next meeting, on the 28th of September. 
+BOWER 1707 “ Ata meeting of the Society for Constitutional Information, held at the Crown and Anchor tavern, Strand, Friday, 28th of September, 1792, 
+BOWER 1708 “ PRESENT, “ Mr. William Sharp in the chair ; 
+BOWER 1709 “ Mr. J. H. Tooke, Mr. Symonds, Mr. Walsh, Mr. Bonney, Mr. Merry, Mr. Jennings, Mr. John Martin, Mr. Williams, Mr. Sturch, Mr. Moore, captain Perry, Mr. Rickman, Mr. Geddes, Mr. Hardy, Mr. Gow, Mr. Margarot, Mr. Sinclair, Mr. Baimanno. 
+BOWER 1710 “ Read the following letter from the secretary of the London Corresponding Society : 
+BOWER 1711 o D. Adams, secretary to the Society for Constitutional Information. 
+BOWER 1712 “ Sir; The London Corresponding Society having taken the resolution of transmitting to the French National Convention, an address, signed by all the members, or by the different delegates (each stating for how many members he signs), to assure that suffering nation, that we sympathise with them in their misfortunes ; that we view their exertions with admiration ; that we wish to give them all such countenance and support as individuals, unsupported and oppressed themselves, can afford; and that should those in power here—dare (in vivlation of the nation’s pledged faith of neutrality, and in opposition to the well-known sentiments of the people at large) to join the German band of despots, united against liberty, we disclaim all concurrence therein; and will, to a man, exert every justifiable. means for counteracting their machinations against the freedom and happiness of uankind. 
+BOWER 1713  am ordered by the committee to acquaint the Society for Constitutional Infor-mation therewith, in order to be favoured with their opinion thereon, and in hopes that, if they approve the idea, and recommend its adoption to the different societies, the publication of such a respectable number of real names will greatly check the hostile measures which might otherwise be put in execution. I am, with great respect, dear sir, your very humble servant. 
+BOWER 1714 (Signed) “ Thomas Harpy, secretary, 
+BOWER 1715 “ London, Sept. 21, 1792,—No. 9, Piccadilly, near the top of the Haymarket. 
+BOWER 1716 “ Resolved, that the secretary express the thanks of the society to the London Corresponding Society for their communication, and acquaint them this society do very highly approve of their intention. 
+BOWER 1717 “ Ordered, That the said letter be read at the next meeting, for the purpose of considering of publishing the same. 
+BOWER 1718 “ Read a letter from the London Corresponding Society, enclosing a printed address to the inhabitants of Great Britain. 
+BOWER 1719 There is in the meeting of the 5th, a confirmation of these minutes, 
+BOWER 2770 You are the wife of Thomas Clio Rickman
+BOWER 2772 What trade is your husband 
+BOWER 2774 During the time that those bouks were tinting, where did Mr. Pgine lodge
+BOWER 2776 Did be ever Judge, at any time, at your husbaiid's
+BOWER 2778 About, what tine was it he lodged at your husband's 
+BOWER 2780 Where did you see them 
+BOWER 2782 Your husband printed them 
+BOWER 2784 They were brought to your house as they Were printed off
+BOWER 2786 The question is, did you see those sheets brought to your husband's house in the proress of the printing 
+BOWER 2788 You sec there are two editions; one glazge and the other a smaller edition
+BOWER 2790  Of those works, perhaps, a profit was made
+BOWER 2792 The profit of one, or both
+BOWER 2794 Who was to receive the profit of the larger edition 
+BOWER 2807 Look at these two books—Did you publish one or both of them
+BOWER 2809 With your knowledge 
+BOWER 2811 Ilow came they, do you know, to be printed with your pame—Did you know it at the time 
+BOWER 2813 At what time did you learn that these books were printed in. your name
+BOWER 2815 When you found. that they were printed with your name, did you make apy applica tion to any body to know why they were printed'with your name
+BOWER 2817 Who, were tu hayg the profit ofthose books? 
+BOWER 2818 —Thatnever knew but what I heard from my wife. 
+BOWER 2819 Thomas Paine, we understand, lodged at your house 
+BOWER 2821 Did you ever see any of the sheets of those works while the printing was going on
+BOWER 2823 Were any proof-sheets, before the work was printed, brought to you
+BOWER 2825 Look at them, and tell us, whether either of them were the books that you priated 
+BOWER 2827 Did you publish them 
+BOWER 2829 Did you ever sell any of them
+BOWER 2831 When did you sell any of those books? 
+BOWER 2833 W hose hand-writing is it upon that copy 
+BOWER 4573 Were you at any time a member of the London Corresponding Society 
+BOWER 4575 At what time did you Legis to be a member 
+BOWER 4577 About what time of the year—the beginning, the middle, or the end 
+BOWER 4579 What is your profession 
+BOWER 4581 The first time you were there was with the las witness, Alexander 
+BOWER 4583 Ly you know how Alexander came to go there 
+BOWER 4585 Did Alexander propose it to you, or you to him
+BOWER 4587 te you both admitted the same night 
+BOWER 4589 How long didyou continue a member 
+BOWER 4591 Did you see Mr. Yorke there at any of the times 
+BOWER 4593 How long did you continue a member after the night you had seen Mr. Yorke there
+BOWER 4595 Have you quitted the society 
+BOWER 4597 How came you to quit it
+BOWER 4599 You remember Mr. Yorke being there 
+BOWER 4601 Were there few or many people in the room at that time
+BOWER 4603 Did Mr. Yorke come in as an ordinary member, or distinguish himself in any way 
+BOWER 4605 Did he say any thing
+BOWER 4607 Do you mean that there might be forty people when you came in, or when you went ra 
+BOWER 4609 Though you do not remember the words of his speech, perhaps you can recollect enough to say, whether it was a moderate or violent speech, or what the subject of it was 
+BOWER 4611 Cannot you take upon you to recollect even: what the substance of his speech was 
+BOWER 4613 You were there the first night that the other witness went with you
+BOWER 4615 Do you recollect, before you went out of the room, whether any thing was said about Yorke, about his intentions of either being in one place or another, about going abroad, or being at home, or any thing of that kind 
+BOWER 4617 From whom
+BOWER 4619 Whom did you live with at the time you became a member of this society 
+BOWER 4621 Where did you go to after that 
+BOWER 4623 Do you recollect enough of the speech that was made by Mr. Yorke on that night, to tell me what impression it made upon your mind at that time ? 
+BOWER 4626 Had you any conversation with Alexander afterwards about what had passed there 
+BOWER 4628 You say you quitted the society soon after
+BOWER 4630 What was your reason for quitting the society 
+BOWER 4632 Had you no other reason but that 
+BOWER 4634 Was your reason entirely because you had changed your situation, or had you any other reason besides
+BOWER 4636 Have you always said that that was your reason? Recollect yourself—I do not know that I have said any thing about it; it was a matter I never thought to be questioned on, and never troubled myself about it, 
+BOWER 4637 What part of the room were you in—were you near Mr. Yorke 
+BOWER 4736 Where did you say Spence’s house was 
+BOWER 4738 That was the place where these associations, of the parish of Lambeth, met
+BOWER 4740 Where is John Shelmerdine’s
+BOWER 4742 Do you happen to know whether there was a single person, that was disciplined, either at Franklow’s or Spence’s, who was not a member of the London Corresponding Society 
+BOWER 4744 Were all that you knew members of that society 
+BOWER 4775 I understood you, that Hardy gave you the address of Franklow !—Yes; he gave me his card. 
+BOWER 4776 Ta consequence of which you went Franklow’s, and there met this society 
+BOWER 4778 I conceive when I prove that a number of persons assemble together, under the directions of the prisoner, that I can give evidence of their conversation.: 
+BOWER 4780 I will see if I can get the facts a hittle more distinctly—was Franklow a meow ber of the London Corresponding Society
+BOWER 4782 Do you know James Davison
+BOWER 4784 Do you know whether he was a member of the Corresponding Society? —I cannot take upon me to say. 
+BOWER 4789 I will prove that none were to be admitted into Franklow’s Association but members of the London Corresponding Society. 
+BOWER 4797 W hether, previous to your admission into that society, you had any conversation with the prisoner about the London Corresponding Society, about providing arms for the Lambeth Association 
+BOWER 4799 Were you admitted a member of the London Corresponding Society, before you were employed by the Lambeth Association
+BOWER 4801 How happened you to be admitted a memof the Land Corresponding Society
+BOWER 4803 Before you were admitted to the Lambeth Association, were you asked at all, whether you were a member of the London Corresponding Society 
+BOWER 4805 was. 
+BOWER 4806 Did Franklow know that you were
+BOWER 4808 Hardy did know it
+BOWER 4810 From the conversation of the members there associated. 
+BOWER 4812 Tell us the substance of any conversation you have heard amongst the members of this society respecting the purposes of this association for a arliauentary reform ? 
+BOWER 4814 If you ever heard any conversations of the kind, do you recollect any of the members of the society who were present? 
+BOWER 4817 Did you hear any thing from Franklow about a parliamentary reform 
+BOWER 4819 Were you a member of the Loyal Lambeth Association 
+BOWER 4821 Were you ever present with them 
+BOWER 4823 Were you ever at Spence’s in Turnstile 
+BOWER 4825 Were you ever there when any of the Loyat Lambeth Association were there 
+BOWER 4827 Were yo ever present at any meeting of the Loyal Lambeth Association
+BOWER 4829 Mr. Bower to Williams.—Did you ever hear any conversation in the presence of Franklow, from-the persons who were present there at that association
+BOWER 4831 You have, in the presence of Franklow, though you do not know the persons 
+BOWER 4833 I submit that it is sufficient to let in the evidence. 
+BOWER 4841 You are a member of the London Corresponding society 
+BOWER 4843 Were you present at either Spence’s or Shelmerdine’s, and at which, at the time the last witness, bales ns there, and when persons were assembled for the purpose of bedrilled
+BOWER 4845 You have been with Williams at Spence's, when the persons were assembled that he was lag and teaching the manual exercise 
+BOWER 4847 ave, soner eut of the case, supposing Franklow 
+BOWER 4848 When you were there, did you from any persons there, hear any conversation 
+BOWER 4851 Do you know whether’ the persons who were there, were members of the London Corresponding Society or not 
+BOWER 4853 “No. 35, London Corresponding Society, united fora Reform of Parliamentary Representation—Unite, persevere, and be free—Division No. 18. On the back— “ Frederick Nodder, paid to Midsummer tenpence, Samuel Cooper, 1794. 
+BOWER 4854 I cannot carry this farther, and therefore I must leave it to the sense of the Court. 
+BOWER 4872 Y ou heard from Franklow thet they were to consist of sixty 
+BOWER 4874 Did you hear from Franklow whether they were to have any more, or that was to be the utmost quantity they were to have
+BOWER 4876 Had you any directions from Franklow or Hardy upon the subject of arms, or of any other kind 
+BOWER 4878 Was Mr. Hardy present 
+BOWER 4880 What said Hardy to it
+BOWER 4882 Was any thing more said 
+BOWER 6439 Were you at any time a member of the London Corresponding Society 
+BOWER 6441 At what time did you become a member of the London Corresponding Society 
+BOWER 6443 ‘Where did you first see any division of the Lotdon Corresponding Society 
+BOWER 6445 When you went first into the room, did you Teceive any paper of any kind 
+BOWER 6447 What was the paper you received upon ing into the room 
+BOWER 6483 Did Mr. Hardy, while you were there, take any part and what? were any reports made by any body 
+BOWER 6485 Was any thing more said or done at that meeting 
+BOWER 6487 By whom 
+BOWER 6489 hat was done next 
+BOWER 6491 Are these minutes of resolutions that were passed that night
+BOWER 6493 Who were present besides the prisoner 
+BOWER 6495 Who communicated the letter from the Manchester society 
+BOWER 6497 That was the mode of doing the business
+BOWER 6499 Was there any thing more passed at that meeting 
+BOWER 6501 Do you recollect any thing more, or do you not
+BOWER 6503 Who made that report that you have been speaking of at the last meeting 
+BOWER 6505 Who was present at that meeting 
+BOWER 6507 What was done at that meeting 
+BOWER 6509 Did any thing more pass there
+BOWER 6515 Did any thing material pass at that meeting 
+BOWER 6517 Admitted to the Constitutional Society, do you mean 
+BOWER 6519 Crown, Newgate-street, November the 14th. 
+BOWER 6520 I will prove by the paper in my hand, that Mr. Hardy was the delegate of division, No. 2; because your lordships will have a goud deal of evidence of what passed in the division of which he was a delegate. 
+BOWER 6523 Did you find that ever sow ing it to the witness] among Mr. Hardy’s papers 
+BOWER 6525 Alerunder Grant
+BOWER 6527  London Corresponding Society, at the Unicorn, Covent-Garden, Monday, October 1, 1792. 
+BOWER 6528 “ Resolved, That Thomas Hardy, division No. 2. be appointed our delegate to the standing committee of the several divisions, and to continue in office for three months. 
+BOWER 6529 (Signed) “ Atexanvrer Lownie, chairman. 
+BOWER 6530 Indorsed, “ Division No. 2, delegate, 
+BOWER 6531 Thomas Hardy. “ Number of members, 120. 
+BOWER 6532 Mr. Bower, to Lynam.—Whether the person who made the report at that meeting, on the 29th of October, at the Unicorn, was the delegate 
+BOWER 6534 Now go on from where you left off. 
+BOWER 6535 Lynam
+BOWER 6537 What passed at that meeting 
+BOWER 6539 Pass on to the next
+BOWER 6541 Of division, No. 2. 
+BOWER 6543 What passed at that division
+BOWER 6545 Who made the report that night
+BOWER 6571 When you talk of the Crown and Anchor, do you mean the Society for Constitutional Information at the Crown and Anchor 
+BOWER 6579 You say you do not know what the paper was to which this was an answer, or where’ it came from 
+BOWER 6581 Do you know from what society at the Crown and Anchor that came 
+BOWER 6583 It was an answer to something reccived before you were a member 
+BOWER 6585 Who said that 
+BOWER 6587 1 it was then reported that many enemies to theIsociety had endeavoured to into the pent At this meeting it was reported that five divisions had been scouted, that is prevented meeting at the pent where they usually had met
+BOWER 6591 Did you receive that note from the prisoner Hardy ? [showing a paper to the witness j 
+BOWER 6593 “ December 4, 1792. “Citizen Lynam, you are requested to meet the Special Committee this evening, at seven o'clock, at the Nag’s-head, OrangeStreet, Leicester-fields
+BOWER 6595 “ Please to inform any of the delegates near "you that you kuow, but no one else. 
+BOWER 6596 Addressed “ To Mr. Tyas No. 31, Walbrook. 
+BOWER 6597 Did you in consequence of this notice goto the place where that note required you to go
+BOWER 6599 Have you apy recollection of what passed? I have not. 
+BOWER 6600 Were you present at a meeting of any of the divisions, upon the 11th of December
+BOWER 6602 At what place 
+BOWER 6604 What passed at that meeting 
+BOWER 6606 Have you read as far as you have taken minutes of the 11th of December, at the Brown- Bear, in Moorfields 
+BOWER 6608 To the council
+BOWER 6610 Was it explained what council 
+BOWER 6612 ‘W hat address was it that they were then talking about 
+BOWER 6614 Was it the address that was produced by Mr. Vaughan 
+BOWER 6616 What meeting was that
+BOWER 6618 What time are you got tonow 
+BOWER 6620 Do you know what that meeting was for
+BOWER 6622 Now come to the 13th of December
+BOWER 6624 How many delegates were at that meeting
+BOWER 6626 Was the prisoner there 
+BOWER 6628 What passed at that meeting
+BOWER 6630 What letter are you now speaking of 
+BOWER 6636 Were you to take a receipt there to show you had carried it there
+BOWER 6638 Is that a copy of Mr. Margarot’s letter to Mr. Dundas 
+BOWER 6642 It was put into the General Post-office, though the party was in London at the time? 
+BOWER 6673 The new tickets. 
+BOWER 6674 Lynam
+BOWER 6676 Sign what
+BOWER 6687 You have omitted there something respecting Carter, look back to your minute of the 20th of December
+BOWER 6689 Information from whom 
+BOWER 6691 Necessary to have a head for what 
+BOWER 6715 Five delegates present that day
+BOWER 6717 Delegates from Ireland
+BOWER 6719 Was the prisoner there 
+BOWER 6721 ts that a declaration of the principles of the society
+BOWER 6727 Was Mr. ardy there 
+BOWER 6729 What do you mean by shining 
+BOWER 6731 That is the answer from Free-Masons’ 
+BOWER 6732 tavern
+BOWER 6734 Was that assented to or dissented from, or what was the conduct of the committee upon it 
+BOWER 6736 Recollect whether any person present made any observation upon that
+BOWER 6738 Did Mr. Margarot say any thing clse as to what should be the conduct of the society 
+BOWER 6740 You do not recollect whether he said any thing more than that
+BOWER 6742 8; he explained to him our endeavours, of which he approved, and he proposed to correspond with him; he said the Catholics had succeeded entirely; Bell had a friend that he knew, whose name was Devereux, one of the delegates, and he agreed to correspond by the post—however, that was said to be dangerous, as no letters go through the post-office—That is the whole of that meeting. The next is the 14th of January at Mr. Hardy’s. Mr. Hardy had sent fifty of our addresses, and twelve of Keirsant’s specches. 
+BOWER 6743 Keirsant’s speech where
+BOWER 6745 Who told you Mr. Hardy had sent them 
+BOWER 6747 When you speak of addresses, what do you mean 
+BOWER 6761 Who should not receive a guinea a week 
+BOWER 6763 Was Hardy present
+BOWER 6765 Repeat that slow 
+BOWER 6767 -and tbe other seven-pence that was paid, to go towaris the expense of their room ; it was agreed that though this might be very proper in all poor divisions, it was remarked at that time, and it was assented to by the whale Meeting of delegates, that supposing there should be an opposition, or that the two parties in fact stooald come to an open declaration, an open rupture, that it was absolutely necessary to give encouragement to the divisions meeting in Spitalfields, for that they OO 
+BOWER 6768 in youl were very poor, and very numerous, and it was very necessary to keep them together. There was a good deal of conversation upon the necessity, and the propriety of it. 
+BOWER 6769 Have you all that in your minutes 
+BOWER 6787 Do you recollect Margarot saying any thing after this reply that he had sent to the Friends of the People 
+BOWER 6789 Was that an observation he then made, or your own observation to the delegates 
+BOWER 6801 Who said that
+BOWER 6803 Did Margarot say that the country would rise against the present government, or did he use the word war, and you understood that he meant by that, rising against the government of the country 
+BOWER 6805 And you understood he meant that 
+BOWER 6807 Was there any conversation of that kind at the time when Margarot made use of that expression 
+BOWER 6813 Who states that observation of Mr. Fox’s—I do not know; it was cbserved; and the same with regard to this, I do not take upon me to say who particularly said this. 
+BOWER 6814 What is meant by first formed 
+BOWER 6816 Why did they reject him on that account
+BOWER 6835 Where at
+BOWER 6837 How is it introduced in your minute? as mane from whom 
+BOWER 6839 We have read the letter—he has put it down Carter—it should be Curteis —itts published, folio 64, in appendix E. of the Report. 
+BOWER 6840 Lynam—They will not give up their power of action to any society ; but they say the time of action may not be very distant—it is something to this purport. 
+BOWER 6842 Did you hear the letter read ? — Yes, it was read —Answered the Norwich society, that we think that the Friends of the People are friends to the cause
+BOWER 6844 Paternoster-row
+BOWER 6846 “was observed that the war was the minister's, for the purpose of diverting the minds of the people
+BOWER 6848 ‘ particulaly this session—to Mr. Erskine, for is detence of the liberty of the press—to Mr. Grey, Mr. Lambton, to Mr. Sheridan, and the glorious minerity of fifty-two—to the duke of Norfolk, lord Stanhope, lord Lauderdale, &c. and copies to be sent to each, and published in all the papers in town and country
+BOWER 6850 Purpose—and that the London Corresponding 
+BOWER 6851 Society are going to petition, and write toa! societies in the kingdom to do so—it will cause the subject to ie agitated every week— no time to be lost—and say that we equally lament the war. 
+BOWER 6852 Was there any letter prepared in’ come. quence of that 
+BOWER 6854 Were there any letters prepared, in come quence of this agreement that they should write to Sheffield, by Margarot or “ other person 
+BOWER 6856 That is in appendix to the Report, page 6
+BOWER 6858 Was Hardy there 
+BOWER 6860 -election—the poor's rate, tythes, and the dearness of provisions they are determined te think and speak for themselves—to petitoa parliament—speak, unite, and it will be done —those are the heads of it as I gathered: ths letter was not directed to Piccadilly, but the house that Mr. Hardy lived in before be went there.—There was a report that the Friends of the People had received two letters from Sheffield, directed to Mr. Stuart; there was no notice taken what the letters were
+BOWER 6862 What was Grant discharged for 
+BOWER 6864 Lord Chief Justice Eyre..—Was it said where these two letters came from to the Friends of the People
+BOWER 6866 Did you minute what Grant was discharged for
+BOWER 6875 It is not worth while to state this; go to your next meeting
+BOWER 6877 You may go now to the 29th of April; T do not see any thing material till the, he anniversary dinner of the Constitutional Society at the Crown and Anchor,—were you present at that dinner 
+BOWER 6879 Did you make a minute of what passed there
+BOWER 6881 Who was in the chair 
+BOWER 6883 Have you any remark upon that 
+BOWER 6885 Is not that reversed 
+BOWER 6887 ‘be part of that committee's cousideration toversal suffrage, which he was not a friend to, but would present the petition if we desired it: in consequence of this it was determined to get Mr. Francis to present it, and to write to him on Saturday morning ; the petition to be presented on Monday, unless Mr. Grey debe off his motion—two of the Sheffield delegates that brought up their petition made honorary members—agreed to meet on Sunday evening at Compton-street, and bring in a!l the skins. 
+BOWER 6894 You have got a minute the 16th of May, have not you
+BOWER 6896 Do you remember any thing passing upon the 16th of May respecting the war and the addressers
+BOWER 6898 Look at that paper. Did you find that among Mr. Hardy's papers 
+BOWER 6900 South-street, Ind of May, 1793. " Sir; I am to apologize to you for not having sooner answered your letter, but I have been very much engaged in business for some days past. I will certainly present the petition if it is desired, because I would not decline presenting a petition for any of my constituents; but I confess I think it might with more propriety be presented by some other member, because it is generall understood that the radical reform, which it recommends, is universal representation, to which I have always been an avowed enemy. 
+BOWER 6901 “ I am, Sir, your most obedient and most bumble servant, C. J. Fox. [No aeidreas Indorsed, Charles James Fox, M. P. 
+BOWER 6902 received 2nd May, 1793. 
+BOWER 6903 Mr. Bower to Lynam
+BOWER 6905 Was the prisoner at that meeting 
+BOWER 6907 e was, 
+BOWER 6908 What passed there
+BOWER 6910 Hardy had received an anonymous letter, saying that, as the late petition lay at your house, I look upon it you are secretary; and he says, being a friend to man, something--and the salutary rights; he very much approves of the petition and the thanks to the minority; he submits it in his letter, that if & petition against the present war is brought forward, it will refute its being a lar one; then he goes with regard to the subscriptions and the expenses of the society. 
+BOWER 6911 You had better pass it over if you cannot make it out well. 
+BOWER 6924 What was the proposition? To advertise a public meeting; and that it should be advertised to meet at five o'clock, but the intention was to meet and begin upon business at six; a motion from division No. 8, — 
+BOWER 6925 of Mr. Wharton’s speech correct—Mr. Margarot will get one thousand for us. 
+BOWER 6926 Have you any thing farther of that meeting 
+BOWER 6928 "about this time did you for any period cease to be a delegate? Was there any division upon what you have been last reading
+BOWER 6935 Does it appear by your minutes whether it was only to be published, or have youany farther entry respecting what was to be done besides publishing
+BOWER 6937 Have you any minutes of the 13th or the 
+BOWER 6938 June. 
+BOWER 6939 15th of June 
+BOWER 6941 Do you recollect any thing about the 13thAfter that time you ceased to be a delegate from your memory
+BOWER 6943 Then to the 15th; that was, TI believe, a Were you, at any time in the month of mecting of delegates, at No., '31 Compton-September, present at any division meeting ? street 
+BOWER 6945 that an advertisementWhat time in September 
+BOWER 6947 Do you know whom it was recommended the 25th. by 
+BOWER 6953 it is all at meetings of delegates, unless I shall mark it as some other meeting. 
+BOWER 6996 Do you recollect any other circumstance that was to attend that meeting
+BOWER 6998 Of whom were those societies to be composed 
+BOWER 7000 Afterwards itwas more particularly broug forward; but I have not, to the best of my recollection, any thiug more. 
+BOWER 7001 The plan was not at that time completed
+BOWER 7003 There was no association formed Lut the Lambeth
+BOWER 7005 Was that agreed to or otherwise 
+BOWER 7007 It will come better in its order by-and-by; who was president of this society, on the 5th of November, chairman of the delegates, and so on
+BOWER 7009 Were you present at any meeting upon the 28th of November? — That is a division meeting. 
+BOWER 7010 Of which division 
+BOWER 7012 Where was it 
+BOWER 7014 What was done at that meeting
+BOWER 7021 That was the regular way of making these reports ; the common ordinary course of the societya 
+BOWER 7037 This is the 12th of November
+BOWER 7039 When were you re-elected, if ever you were re-elected, a delegate from any of those divisions ? 
+BOWER 7040 We have the letter which has been read of the 8th of November, from the prisoner, to the delegates in Scotland. 
+BOWER 7047 I bey to go through my examination; do not be marking apers while I am examining you; put them in your pocket till we have done. You were elected a delegate again at what time
+BOWER 7049 Was Mr. Hardy a new member, when you attended as a new member
+BOWER 7051 After you re-commenced a delegate 
+BOWER 7053 Now go to the ed of January, 1794
+BOWER 7055 Was this a delegate meeting 
+BOWER 7057 How soon were they to be sent down
+BOWER 7074 Have you no farther minutes of the business of the 9th of January; you are not yet come to the sub-committee; is that a minute of that day, or of the 20th of January
+BOWER 7076 Does it appear that any sub-committee was chosen on that day
+BOWER 7078 Was there any plan agreed upon to be proposed, on the 20th of January, respecting the proceedings of this sub-committee
+BOWER 7080 You stated, that you ceased to be a delegate from Midsummer, to near Christmas, how came you to cease to be a delegate during that time 
+BOWER 7082 What was the result of your trial 
+BOWER 7084 aving been acquit a majority, you then wis sn a dele te, before the time you have last been speaking of ?9—I was re-elected, the next meeting I attended was the 2d of January, 1794. 
+BOWER 7100 Agreed by the delegates 
+BOWER 7102 What passed at that meeting 
+BOWER 7132 Hardy was present. 
+BOWER 7134 Were you present at any delegate roeeting, any where on the 30th of Jamuary? No, I must beg you to go to the 23rd of Jauuary, I must not pass over that
+BOWER 7136 Was that a meeting of delegates, On thethat time, they always held in idea a regulaasrd of January 
+BOWER 7138 ‘Was the prisoner there, oF not
+BOWER 7140 No particular number were to your knowledge proposed 
+BOWER 7142 How muchwasto be subscribed 
+BOWER 7144 hat do you mean by the callof the-house 
+BOWER 7146 Go on to the next after that
+BOWER 7148 To what committee —To the committee of delegates; but the committee of delegates had a power to dissolve them when they pleased. 
+BOWER 7149 ‘Was it mentioned of whom the secret committee were to consist 
+BOWER 7151 Was there any secretary appointed to the secret committee 
+BOWER 7153 What was to be the. power of the secret committee
+BOWER 7155 What were they to do, were they themselves tocarry any measure into effect, or how were they to act
+BOWER 7157 What was the next thing that was carried
+BOWER 7159 What was the next thing done 
+BOWER 7161 Nor of the substance of it, have you
+BOWER 7163 Then go on to the next
+BOWER 7165 How was that committee of exigence to be formed, two from all the societies, or how to be formed 
+BOWER 7167 Old Friends New Revived 
+BOWER 7169 Was Mr. Hardy there
+BOWER 7171 What delegates 
+BOWER 7173 Was any thing done upon that Jelter from Gerrald, about appointing a short-hand did pe was muaisloned “ihone Ramsey chal ort; is for 4 Ls taal Jenkina oe was recommended cannot go. Sibley, in Goswell-street, to be applied to, to go down, and if he was not prevailed upon to go, Hardy should appoint somebody to go down. hat passed upon the 20th of February
+BOWER 7175 After this time you ceased to be a delegate, or shortly afte: 
+BOWER 7177 This is the substance of what you collected during the time you were a delegate —Yes. 
+BOWER 7178 How became you a member of this society
+BOWER 7180 tis your business
+BOWER 7182 How did you become a member
+BOWER 7184 Then you made yourself a member of the society; how did you get admitted 
+BOWER 7186 we were chi a iyeerpune the com
+BOWER 7187  Las lon of the society, saying, 
+BOWER 7188 Paid not mean to do any thing of the kind, but understanding the society was on a public 
+BOWER 7189 I should much obliged to them for one of theirresolutions, and then I should leave them to their own deliberations. 
+BOWER 7190 Then you were admitted a member in conuence of what you had observed 
+BOWER 9313 What may your business, or profession be
+BOWER 9315 Were you a member of the Constitational Society 
+BOWER 9317 You were a member of both societies
+BOWER 9319 When were you elected a member of the Corresponding Society? —I imagine better than two years ago. 
+BOWER 9320 How long have you belonged to the Constitutional Society 
+BOWER 9322 You heard several men speak upon politics? —I have heard several very clever speeches. 
+BOWER 9323 Were they clever speeches by clever men
+BOWER 9325 Did they strike you as clever speeches from clever men
+BOWER 9327 You took up your idea of politics from them 
+BOWER 9329 You did not go to these societies to read the public papers, or to read the debates in both Houses of Parliament 
+BOWER 9331 Which way then did you get your informa tion? 
+BOWER 9332 Wills —What information ? 
+BOWER 9333 Mr. Bower—Upon politics; you said ie went there not having an Spron aay of attending both Houses of Parliament 
+BOWER 9335 Upon what subject
+BOWER 9337 Were any subjects discussed that did not relate to politics 
+BOWER 9339 Upon your oath, when you went there, did you expect to hear arly discussion upon any subject but politics
+BOWER 9341 That is no answer to my question; wha you went there, you said, you went there because you had no opportunity of attending the Houses of parliament, and went to hear clever then speak; upon what subject did you gu expecting to hear them speak 
+BOWER 9343 And those only 
+BOWER 9345 Was that the place where you took up your constitutional doctrine 
+BOWER 9347 From the newspapers 
+BOWER 9349 And you went to the Constitutional Society not having opportunities to attend the House of Commons, to supply that defect
+BOWER 9351 You had no other means of supplying the information 
+BOWER 9353 Did you attend frequently
+BOWER 9355 I know nothing.—I ask you
+BOWER 9357 Did you not, upon your oath, attend them weekly 
+BOWER 9361  Were youatall acquainted with the proceedings of the society —Very little ; Tnever looked into their books. 
+BOWER 9362 Then you did not know of any of their transactions which might bring some of them, or those they employed, into difficulties No, 
+BOWER 9363 You never knew that any body was prosecuted fur assisting them in their views
+BOWER 9365 Did you never hear of one William Carter
+BOWER 9367 Then, of course, you never heard that he was in cunfinement at all
+BOWER 9369 Do you recollect Carter, the bill sticker 
+BOWER 9371 You heard nothing more of him but that there was such a man
+BOWER 9373 That is all. You never heard that there was a subscription entered into for him
+BOWER 9375 That is then what you now mean to swear distinctly, for I will not let you now go back ? Ido not say I gave two guineas, or five, but 
+BOWER 9376 T only say I subscribed something, perhaps, to the poor man’s family. 
+BOWER 9377 Did not vou say two or five guineas
+BOWER 9379 Did you not, a minute ago, say you might: have given a shilling, or half-a-crown, or a guinea, or five guineas, to this man, in confinement, for sticking up bills
+BOWER 9381 Your gestures will not do 
+BOWER 9383 Ido not wish to confuse you ; the more distinct you give your answer the better; do you mean to say, upon your oath, that you did not recollect when you said, you might have given one, two, or five guineas to this man 
+BOWER 9385 Did you give one, two, or five guineas 
+BOWER 9387 Then, I understand, you now swear dis-: tinctly, you might give this man a shilling; but that you did not give him five guineas 
+BOWER 9389 Upon your oath, you did not give this man two guineas, or five guineas
+BOWER 9391 You never gave him a guinea, or five gui-. neas
+BOWER 9393 Did you ever give him any thing 
+BOWER 9395 Task you, whether you did, or not, subscribe any sum of money to the man who was in confinement, for sticking up bills for the society, and on that account
+BOWER 9397 To whom did you give something 
+BOWER 9399 Who asked you for it
+BOWER 9401 What societies 
+BOWER 9403 At the time you gave that, was a subscription put about for the relief of this man so in custody 
+BOWER 9405 Did you attend one, or more of theee s0cieties 
+BOWER 9407 Which was that
+BOWER 9409 At which house 
+BOWER 9411 Was it there you subscribed
+BOWER 9413 Was Compton-street a place where the delegates met, or a division meeting Among the divisions, I believe; I did not belong to any delegate society, but to the common meeting. 
+BOWER 9414 Which division of the society did you belong to
+BOWER 9416 Did you go there as a visitor 
+BOWER 9418 You are now a member of the Covent Garden division 
+BOWER 9420 Then, whether you have been a member of that in Compton-street, you do not know 
+BOWER 9422 The same division 
+BOWER 9424 My question is, whether you belonged to one, or two divisions of this society 
+BOWER 9426 Did you belong to more than two
+BOWER 9428 When you werein the society, did you know any thing of any secret committee; perhaps a never heard of any such thing 
+BOWER 9430 Of course you know nothing of any secret committee 
+BOWER 9432 Ifa secret committee had been mentioned, it would have been to you a matter of surrise 
+BOWER 9434 Did you ever hear of any letter that had been written by the prisoner —Never. 
+BOWER 10300 Be so good as to remember, when you an-swer my questions, that you have spoken about the solemnity of your oath—You have been a member of the Sheffield Society, you say, from the year 1791
+BOWER 10302 Have you been intimately acquainted with the proceedings of that society 
+BOWER 10304 You stated that, I think —Yes. Had you a committee of members of your. society, who managed for the society 
+BOWER 10306 Were you a member of that committee 
+BOWER 10308 Were you there at the time when twelve’ members were sent, or intended to be sent, from the Constitutional Society at Sheffield, to the Constitutional Society in London
+BOWER 10310 Do you not know, in fact, you that were intimate with all the proceedings of the society, that twelve members were deputed from Sheffield, to be elected members of the Constitutional Society, in London? 
+BOWER 10312 Yes
+BOWER 10314 If you mean to turn any thing upon the word elected,—to be sent, to have a communication with them ? 
+BOWER 10315 Oukes
+BOWER 10317 Yes
+BOWER 10319 Were they to be associated, any of your members with the society in London 
+BOWER 10321 Were they then to be associated by correspondence 
+BOWER 10323 Were you there then, when it was agreed, or settled, that twelve members of your s0ciety should be associated with the Landon society, for the purpose of correspondence 
+BOWER 10325 Did you never hear in the committee, that such a step had been agreed upon 
+BOWER 10327 I beg you would recollect yourself, whether you do not recollect that such a circumstance appencd; do you meun to say it did not happen 
+BOWER 10329 Do you not believe the fact, that such persons were associated 
+BOWER 10331 Do you know, whether. any proposal that was mnade about associating members of your society, came from London, or was at first Propet from Sheffield 
+BOWER 10333 Did you constantly attend the committecs 
+BOWER 10335 And you never heard, either before or after such a measure, that it had actually taken place 
+BOWER 10341 What are become of those proceedings that were put into writing at those committees 
+BOWER 10343 Tn whose custody were the proceedings that were put into writing usually kept 
+BOWER 10345 You said, you expected your petitions would be heard; were you present, when that resolution passed which we have been talking of, when it was resolved not to petition parliamont any more 
+BOWER 10347 Were you present when any letter was written from the Conmuvaonah Society at Shellield, to the Society for Constitutional Information at London, respecting a radical reforin of the country, the 14th of March 1792; that is long subsequent to the time of your Lecoming a member 
+BOWER 10349 I will show it you; do you know a man of the name of Sarouel Ashton 
+BOWER 10351 Was he an active member of your society 
+BOWER 10353 Up to what period 
+BOWER 10355 Where is he now 
+BOWER 10357 ton’s hand-writing; I am going to call a vie 
+BOWER 10358 Ishe at Sheffield
+BOWER 10360 Did he correspond with the London Cor. responding Society, in the name of the Shefield Society 
+BOWER 10362 Is that letter Ashton’s hand-writing
+BOWER 10364 You must have seen him write frequeally in the society
+BOWER 10366 Have you never seen Ashton write, upca the solemn oath to which you have appealed
+BOWER 10368 Have you seen him write upon any sub ject 
+BOWER 10397 Upon your oath, do you ever remember a report being made of the proceedings about the period of the 14th of March, 1792 
+BOWER 10399 You say, in that letter, that it is upon the pede of the Rights of Man; had those woks been received in your society as the principles upon which you were to act, Paine’s Rights of Man 
+BOWER 10401 Your pwnciples, however, that you state, are the right to a thorough reformation, a radical returm of the country, upon a system consistent with the rights of man. Were the rights of man described in that book and this Ietter 
+BOWER 10408  this is not the paper that Iam examining to; but 1 have no objection in the world to his reading it. 
+BOWER 10411 As you desire to have it read, let the witness read it aloud, “ Sir ; It is now abouts four months since this society farst formed itself into a regular body, then but very few in number; the enclosed will inform you of their increase, and which, is most probable, will soon become very numerous ; and notonly this large and populous town, but the whole neighbourhood, tor many miles round about, have an attentive eye upun us; most of the towns and vallages, indeed, are furming themsclves to good order and regularity, and the need we have of coasulting and communicating with those who are sincere friends, and able advocates for the same cause; for these reasons, we took the liberty of writing ta Mr. 
+BOWER 10412 Horne Tvoke, that worthy friend and patriotfor the rights of the people, informing him of our earnest desires of entering into a cen-' nexion with the society of the same denomination with ours in London: His very obliging and affectionate answer favours us wit your address; In consequence, we have taken the liberty, herewith to transmit to you some resolves, which were passed at our last meetings by the whole body; and the committee was charged with the dispatch of printing, and forwarding them to you accordingly, for the purpose of submitting them to the consideration of your society, ta make such use of them as they think most prudent. 
+BOWER 10413 “ You will also notice the Belpar address ; they applied to us, about two munths ago, for instructions, as to our mode of conducting, &c. had not then formed themselves into any regular association. Belpar is nearly thirty miles from this place, in Derbyshire, and cight or ten miles from Derby. 
+BOWER 10414 f the Society for Constitutional Information, in London, should vouchsafe so far to notice us, as to enter into a connexion and correspondence with us, it cannot fail of promoting honour, and adding strength to our feeble endeavours, and to the common cause, which is the entire motive we have in view. Tam, sir, with the greatest respeet and esteem, your sincere friend, 
+BOWER 10415 By order of the committee, 
+BOWER 10416 “ Sheffield, “ SAMUEL ASHTON, 14th March 1792. 
+BOWER 10417 Campo-lane.’ 
+BOWER 10418 “We have taken the liberty of enclosing a parcel for Mr. Hardy, in answer to a letter from him to this society, requesting some information concerning our methad of conducting the business we are embarked in, &c. also informing us, there are, in London, a number of mechanics, shopkeepers, &c. forming themsclvcs into a society, on the broad basis of the Rights of Nan. You will be so obliging as to let the packet remain with you ; until he call for it, as by this post I have ; wrote him thereof. We have given him our manner of proceeding, from our setting out to this time, and hope it may be of some use ; the improvement we are about to adopt is certainly the best for managing large bodies, as in great and populous towns, viz. dividing ; them into small bodies or meetings of ten Persons cach, and those ten to appoint a delegate: ten of these delegates form another meeting, and so on, delegating from one another, till at last are reduced to a proper number for constituting the committee, or ; grand council. 
+BOWER 10419 into simailar associations, and strictly adhere to the mode of copying after us; you will easily conceive the necessity for the leading mem bers of this body, tu pay strict alleution 
+BOWER 10420 Please to forward the packet to Mr. Hardy, as soon as convenient. 
+BOWER 10421 The last letter was: put into your hand by a mistake; I would wish you tocal reform ofthe country, what word was the read this letter [giving the witness another letter-]— It is the same date, the 14th of March, 1792; Sheffield Society for Constitutional Information, to the Society for Constitutional Information, in London. 
+BOWER 10422 Who is it directed to on the other side 
+BOWER 10425 Certainly.—Is that the handwriting of Mr. Ashton 
+BOWER 10427 Do you believe it to be his hand-writing
+BOWER 10429 You have seen him write
+BOWER 10435 In that part where it says— “the people are determined to obtain a radiword originally, where the word country is now 
+BOWER 10437 Do you know how those two letters of te same date came to be sent on the same day
+BOWER 10439 Did you ever hear of this letter, which I have now desired you to read, before it was written, or afterwards 
+BOWER 10441 Do you not recollect hearing of that leter at all
+BOWER 10443 That was a letter then composed by the scret committee, which never was communcated to you, at least ? 
+BOWER 10444 Oakes. By the secret committee ? 
+BOWER 10445 By the committee 
+BOWER 10447 It never was comm inicated, to your know ledge, to the society 
+BOWER 10449 I ask whether, to your knowledge, it ever was communicated to the society 
+BOWER 10453 You say you were present at the meeting at the Castle-hill 
+BOWER 10455 Did you hear Yorke’s speech there 
+BOWER 10457 Have you read it since it was printed
+BOWER 10459 Have you never read his speech 
+BOWER 10461 Did you know Mr. Brown 
+BOWER 10463 Was he the editor of the Patriot, I mes the gentleman sent as alee Matthee Campbell Brown 
+BOWER 10465 Did you ever read a paper at Sheffield under he name of the Patriot? 
+BOWER 10466 jakes—Do you mean a newspaper, or 3 book which calor outin numbers? 
+BOWER 10467 T believe it came out both ways; did you ever read either of them
+BOWER 10469 Did you read the book that was published under the title of the Patriot 
+BOWER 10475 Look at the resolutions in the printed paper pasted into that book. 
+BOWER 10476 Oakes
+BOWER 10480 Read it over aloud ; it bas been read already. 
+BOWER 10482 Now, upon your oath, were’ 
+BOWER 10483 those resolutions, or ques copies of them, circulated at Sheffield as the resolutions of your society 
+BOWER 10485 You have seen them in circulation there; have you not 
+BOWER 10487 Did you at that time, or your society, circulate the books which are referred to in those resolutions—I mean this part, “ we declare that we have derived more true knowledge from the two works of Mr. Thomas Paine, intituled,Rights of Man, part the first and second than from any other author on the subject— the practice, as well as the principle of government, is laid down in those works in a manner so clear and irresistibly convincing, that this society do hereby resolve to give their thanks to Mr. Paine for his two said publications, intituled Rights of Man, part the first and second
+BOWER 10489 Iam not talking about their being proved to bea libel, but whether these books were circulated by your society, about Sheffield, as the principles of government which you had, adopted
+BOWER 10491 Were they circulated by the members of your society, in the neighbourhood of Sheftield, in very great numbers 
+BOWER 10493 Do you know that they were circulated by the members of that society at all
+BOWER 10495 I beg it to be understood that the question has nothing todo with proved to be a libel ; but were they not, in fact, circulated 
+BOWER 10497 By whom ; by Gale
+BOWER 10499 By whom, do you know, were they circulated—were they circulated by the members of that society, to your knowledge 
+BOWER 10501 ho was this David Martin, who signs those resolutions as chairman of your committee 
+BOWER 10503 Was he, at the time those resolutions passed 
+BOWER 10505 Did you not know the time till asked you to the time now
+BOWER 10507 Did you not know he was chairman 
+BOWER 10509 How many members had you about this time in the Constitutional Society 
+BOWER 10511 Do you mean to say you do not know whether there were twenty-five hundred, or ten thousand 
+BOWER 10513 As near as you can
+BOWER 10515 As Mear as you can ? 
+BOWER 10518 About how many 
+BOWER 10520 How came you to say, in your resolutions, that they were increased to nearly two thowsand, if they were only two hundred
+BOWER 10522 You begin by stating, “ This society, com posed chiefly of the manufacturers of Sheffield, egan about four months ago, and is already increased to nearly two thousand members, and is daily increasing ; was not that fifteen, sixteen, or eighteen hundred more than you had at the time
+BOWER 10524 Did people attend the meetings who were not members 
+BOWER 10526 Had you any meeting at which five husdred persons were got together, before the month of March, 1792
+BOWER 10528 I observed, when you were examined, you said you had no intention to attack government; what did you mean that you had no intention to attack government; if government had attacked you, and dispersed you, what were you to do
+BOWER 10530 Supposing government had attempted to disperse you
+BOWER 10532 You do not know, you said, whether there wasany intentionatall aboutaltering the House of Lords, or about the House of Lords in any respect 
+BOWER 10534 Then, after all you have stated to me of those resolutions, and those works you have before stated, you mean now to state that your idea was a mere reform by petition to parliament, and nothing more
+BOWER 10536 Was Martin, the person who signed this, the last witness 
+BOWER 10540 That is a leading question. 
+BOWER 10549 Did that book, called the Patriot, come out about the same time as the newspaper 
+BOWER 11183 You are stating certain facts wae do not appear upon the evidence you Offer. 
+BOWER 11185 You state that, in fact, to be a proceeding in partewoent upon certain peUtions, which I say is not opening the evidence, unless you find it there. 
+BOWER 11331 Notwithstanding we are now not only in a criminal case, but ina case which affects the life of the prisoner at the bar, I make no apology at all for troublin our Lordships with the few observations have to offer, because I not only am conscious that neither myself, nor any one gentleman, with whom I am associated in this prosecution, can possibly conceive the purpose of pressing any evidence against the prisoner which we do not think is competent evidence, but I am confident that there does not exist acreature, about whose opinion I am anxious, that can conceive such a purpose to enter into the heart of any of us. 
+BOWER 11332 My lords I conceive that this case, capital as itis, is to be tried upon the same principles of evidence as all other cases are; and it is our duty, as counsel for the prosecution, to resist the admission of any evidence which we think not competently legal, as much asif we were trying a common action of assault and battery, or as if a question could arise upon any subject that could possibly be -debated in acourt of justice, which imagination could conceive to be the most trifling. 
+BOWER 11333 ‘Ihave always understood, that the declarations of parties are evidence only either in cases where they accompany the act at the time that they are made, or where they have been made at different times, and under different circumstances, totally unconnected with that fact, which is the question under discussion in the Court, in which cases they have always been received in the nature of facts, or rather as circumstances by which the general conduct of the party is to be judged of, as being circumstances, and being declarations given upon subjects to answer no particular purpose, and not connected with that which is the subject matter of discussion at the time that the evidence is given. 
+BOWER 11334 Every case my friend, Mr. Erskine, bas cited, in my opinion, confirms the principle I am now stating; andif your lordship will examine them, one by one, you will find that in every case, which he has stated, where evidence of this kind has been received, it has been to show the general conduct and character of the prisoner, in circumstances and upon occasions no way connected with the crime of which he was then accused, but as circumstances and declarations in situations from which the jury might collect the general character and conduct oF the prisoner. 
+BOWER 11335 It is indisputably true, that in the case of murder, evidence has always been received that the prisoner has at other times, upon other occasions, and in different circumstances shown acts of kindness to the deceased, and expressed himself kindly towards him, and they are offercd to show that that was the general disposition of the prisoner towards the deceased, from which the jury may collect that it could not be his intention to commit the crime which was imputed to him; but did any man alive ever hear it asked of a witness, produced in a case of that kind, whether he had heard the prisoner say, that he had No intention to kill the deceased ; and that that should be received as evidence, to explain the acts which were proved against the prisoner, upon the evidence given; and upon which the judgment of the Court and jury are to be drawn? 
+BOWER 11336 In Holt’s case, which my learned friend has cited, in which he has admitted that the judgment of the Court of King’s-bench, went slong with the opinion of a learned, and most worthy judge, deceased—it appears that the judges were unanimous in thinking, when the fact was proved that the libel was published, that it was not competent to the defendant to explain his conduct, to state how, or in imitation of whom it was, that he had done that act which was then attributed to him as a crime. 
+BOWER 11337 Inlord George Gordon’s case, the declarations there received, come under the other Principle, they were properly received, because all of them were declarations immediately preceding or following the act, so as to be considered as accompanying the acts of the moment—they were reccived upon the principle that declarations accompanying a fact, are a part of the fact itself; and that therefore you must receive them as circumstances of the fact; but there were neither received in evidence, nor offered, the private declarations made by that noble lord, previous to the time when he entered into that levying war, which constituted the crime of which he was accused. 
+BOWER 11338 In the other case, which Mr. Erskine has stated, where the prisoner was permitted to ask what a person had heard him disclose ; that is on the principle of going to the general conduct—it was not with an intent to show that particular act, which is attributed as a crime in the prisoner, but to show that in former acts, which were considered as a part of bjs general conduct, the prisoner's disposition 
+BOWER 11339 [tee was such and such upon certain subjects, nt connected immediately, not apologizing fr, and not offered as explanatory of the transactions which made the subject matter of the crime, with which he was ig ig 
+BOWER 11340 In lord Russell’s case, when Dr. Borne was asked to a conversation of lord Russelfs against risings, which comes nearer than any my friend has stated, to the principle he wants to support—lIs it stated in that case, that my declaration lord Russell had made with respet to his intention, as to the rising in questea, or the facts that he was called to answer to was received as evidence—nothing like itwhen aman is charged with a particular rsing, which constitutes the particular fact o which he is accused, evidence of his genml conduct, and general character, d H of other facts, and other circumstancesare of fered to prove—not what he said respecting the fact there—but as general evidence of the conduct and intention of the party. 
+BOWER 11341 As to Rosewell’s case, which was, that clergyman who had taken occasion to inst the government, had at other times preached sermons in favour of government, that coms within both principles ; the preaching a di course in favour of government at another time, is an act done strongly indicative of the intentions, and general conduct of the prisoner, to show that he was well disposed we wards povethiaent, and I give my learned friend leave, if he can in this instance, prove five hundred acts, to show that Mr. Hardy has always supported government, aot hasin his general conduct, done acts a3 D torious as the preaching of'a sermon in ap port of order, and good government. 
+BOWER 11342 The case a sir ze Freind was of the same kind; the evidence was not to prow what he had done respecting the particur transaction, but to show that at differst times, when there could be no design in ve", the conversation not respecting the crime which he was then accused, sir John Freint had been speaking of government in the "J that a dutiful subject ought todo. 
+BOWER 11343 In Dammaree's case, the declarations 1 ceived were directly accompanying the st: the declarations of the mob were received 35 part of the act, and upon that principle oaly. 
+BOWER 11344 The case last alluded to was, I believe, Crhagan’s case, in which was given in evi against him, his declarations of coming England, to kill the king ; and his coming England coupled with other acts, to what his intention was; and there was declaration to explain the particujar act, which he at that time was accused, or which was then the subject matter of inquiry. 
+BOWER 11345 ; I have before stated j om which 4 
+BOWER 11346 learned friend Mr. Gi cently, and as he always does, very abl bl to expressious of good will, that is 14 which I do not deny, but the applicsto which I dispute, because I say that these & 
+BOWER 11347 pressions of good will, are only received i the way that I have before stated, namely, that they are expressions at other times, upon occasions, when there is no crime imputed, when they cannot be possibly supposed to have relation to any crime, not then committed, or about to be committed, and which only shows a general good disposition— which in an equivocal act might make it doubtful, whether the party was actuated by malice toward the deceased, or not. 
+BOWER 11348 But the evidence offered in this case, is of a very different complexion indecd, and such as I 
+BOWER 11349 ly speak truly when I say I do not recollect ever to have been offered to a court of justice. The crime charged is, compassing the king’s death—we can give no evidence of the manner of compassing the death of the king, but by the overt acts which we have charged, and therefore the subsiance of the indictment is, that you did this overt act, from which this compassing necessarily arises; it is the act I admit to show the intent, which is just like any other fact, in any other case; it is just the same, as when we say a man committed a homicide with a felonious intent; the intent is a part of the crime—but was it ever asked, whether he had said he committed that crime, with a felonious intent
